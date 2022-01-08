@@ -3,9 +3,9 @@ package ru.netology.domain;
 //Нижняя часть поста
 
 public class Footer {
-    private Heart heart;
-    private Review review;
-    private Arrow arrow;
-    private  viewCounter viewCounter;
+    private LikeInfo heart;
+    private CommentInfo review;
+    private RepostInfo arrow;
+    private ViewInfo viewCounter;
     // + getters/setters
 }

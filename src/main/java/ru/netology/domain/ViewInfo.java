@@ -2,7 +2,7 @@ package ru.netology.domain;
 
 //Счетчик просмотров в подвале
 
-public class viewCounter {
+public class ViewInfo {
     private  int count;
     // + getters/setters
 }
